@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I’m @arshnoork-101
 
 - 👀 I’m interested in **Computer Science**, **software development**, **web development**, and **algorithms**.
