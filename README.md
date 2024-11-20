@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @arshnoork-101
 
-- 👀 I’m interested in **Computer Science**, **software development**, **web development**, and **algorithms**.
-- 🌱 I’m currently learning **full-stack Web Development**, **Database Management**, along with **Software Testing**.
+- 🌱 I’m currently learning **Full-Stack Web Development**, **Database Management**, along with **Software Testing**. 
 - 💞️ I’m looking to collaborate on **open-source projects**, **web applications**, and **algorithm-based problems**.
 - 😄 **Pronouns**: She/Her
 - ⚡ **Fun fact**: Sometimes my code works like magic, and other times, it has a mind of its own! Crazy, isn't it? 🤷‍♀️
