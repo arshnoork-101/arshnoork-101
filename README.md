@@ -1,22 +1,18 @@
 # 👋 Hi, I’m @arshnoork-101
 
-- 🌱 Right now, I'm immersing myself in the world of Full-Stack Web Development, expanding my knowledge in Database Management, and exploring the vast realm of Software Testing.
-- 💞️ I’m looking to collaborate on **open-source projects**, **web applications**, and **algorithm-based problems**.
-- 😄 **Pronouns**: She/Her
-- ⚡ **Fun fact**: Sometimes my code works like magic, and other times, it has a mind of its own! 😅 But that’s the fun of coding, right?
+I’m a **Full-Stack Web Developer** on a mission to build innovative, high-quality applications. Currently, I’m expanding my knowledge in **Database Management** and **Software Testing**, while continually pushing the boundaries of my skills in web development.
 
+## 🌟 What I’m Focused On:
+- **Full-Stack Web Development**  
+- **Database Management**  
+- **Software Testing & Quality Assurance**
 
-<!--
-**arshnoork-101/arshnoork-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 I’m Excited to Collaborate On:
+- Open-source contributions  
+- Building impactful web applications  
+- Solving algorithmic challenges and coding problems  
 
-Here are some ideas to get you started:
+## ⚡ Fun Fact:
+Sometimes, my code feels like it was written by a wizard ✨, but other times, it takes on a life of its own 🧙‍♀️. But that’s the beauty of coding — the journey is just as thrilling as the destination! 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pronouns: She/Her
