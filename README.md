@@ -15,4 +15,3 @@ I’m a **Full-Stack Web Developer** on a mission to build innovative, high-qual
 ## ⚡ Fun Fact:
 Sometimes, my code feels like it was written by a wizard ✨, but other times, it takes on a life of its own 🧙‍♀️. But that’s the beauty of coding — the journey is just as thrilling as the destination! 😅
 
-### Pronouns: She/Her
