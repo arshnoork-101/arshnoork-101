@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @arshnoork-101
 
 I’m a **Full-Stack Web Developer** passionate about building innovative, high-quality applications.  
-Currently exploring **AI/ML, Cloud, DevOps, and Modern Web Development**, while expanding my skills in **Database Management** and **Software Testing**.  
+Currently exploring **AI/ML, Cloud, DevOps, and Modern Web Development**, while enhancing skills in **Database Management** and **Software Testing**.
 
 </div>
 
@@ -32,9 +32,7 @@ Sometimes my code feels like it was written by a wizard ✨, other times it has 
 
 ## 🌐 Connect With Me
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshnoorkaurjuj/)  
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshnoork-101)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arshnoork-101/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshnoorkaurjuj/)  [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshnoork-101)  
 </p>
 
 ---
