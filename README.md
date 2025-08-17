@@ -2,8 +2,8 @@
 
 ### 🚀 Full-Stack Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud & DevOps Explorer  
 
-I’m passionate about building **scalable, user-focused applications** and exploring the intersection of **AI, cloud technologies, and modern web development**.  
-Always curious, always learning — turning ideas into impactful solutions.  
+### I’m passionate about building **scalable, user-focused applications** and exploring the intersection of **AI, cloud technologies, and modern web development**.  
+### Always curious, always learning — turning ideas into impactful solutions.  
 
 ---
 
