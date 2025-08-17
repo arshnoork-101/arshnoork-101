@@ -20,13 +20,17 @@ Passionate about crafting innovative, high-quality web applications. I'm on a co
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
-
-I'm always excited to work on:
-- 🌐 Open-source projects that make a difference
-- 🚀 Building scalable and impactful web applications
-- 🧩 Solving complex algorithmic challenges
-- 🤖 AI/ML experiments and new tech explorations
+<div align="center">
+  <h3>🌐 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/arshnoorkaurjuj/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/arshnoork-101" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+ <a href="https://hashnode.com/@AK401" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-03A9F4?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+</a>
+</div>
 
 ---
 
@@ -111,15 +115,3 @@ I'm always excited to work on:
 </div>
 
 ---
-
-<div align="center">
-  <h3>🌐 Let's Connect</h3>
-  <a href="https://www.linkedin.com/in/arshnoorkaurjuj/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/arshnoork-101" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
- <a href="https://hashnode.com/@AK401" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-03A9F4?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-</a>
-</div>
