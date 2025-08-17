@@ -34,7 +34,9 @@ Sometimes my code feels like it was written by a wizard ✨, and other times it 
 ## 🌐 Connect With Me
 <p align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshnoorkaurjuj/)  
+  
 [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshnoork-101)  
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arshnoork-101/)  
 </p>
 
