@@ -18,9 +18,6 @@
   <a href="https://dev.to/arsh-k31" target="_blank">
     <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV">
   </a>
-    <a href="https://github.com/arshnoork-101" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
 
