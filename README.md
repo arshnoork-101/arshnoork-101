@@ -1,9 +1,8 @@
 <p align="center">
-# 👋 Hi, I’m @arshnoork-101
-</p>
+#👋 Hi, I’m @arshnoork-101
 
 I’m a **Full-Stack Web Developer** passionate about building innovative, high-quality applications. I’m currently exploring **AI/ML, Cloud, DevOps, and Modern Web Development** while expanding my skills in **Database Management** and **Software Testing**.  
-
+</p>
 ---
 
 ## 🌟 Focus Areas
