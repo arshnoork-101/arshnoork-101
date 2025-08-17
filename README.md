@@ -7,18 +7,6 @@
 
 ---
 
-## 🚀 My Universe of Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Web_Development-3498DB?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Web Development">
-  <img src="https://img.shields.io/badge/Cloud_&_DevOps-2ECC71?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud & DevOps">
-  <img src="https://img.shields.io/badge/AI/ML_&_Generative_AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML & Generative AI">
-  <img src="https://img.shields.io/badge/Software_Testing_&_QA-E74C3C?style=for-the-badge&logo=selenium&logoColor=white" alt="Software Testing & QA">
-  <img src="https://img.shields.io/badge/Database_Management-F39C12?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Management">
-</p>
-
----
-
 <div align="center">
   <h3>🌐 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/arshnoorkaurjuj/" target="_blank">
@@ -96,7 +84,9 @@
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=arshnoork-101&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arshnoork-101&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies">
+  </a>
 </p>
 
 ---
