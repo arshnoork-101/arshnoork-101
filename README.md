@@ -2,41 +2,38 @@
 
 # 👋 Hi, I’m @arshnoork-101
 
-I’m a **Full-Stack Web Developer** passionate about building innovative, high-quality applications. I’m currently exploring **AI/ML, Cloud, DevOps, and Modern Web Development** while expanding my skills in **Database Management** and **Software Testing**.  
+I’m a **Full-Stack Web Developer** passionate about building innovative, high-quality applications.  
+Currently exploring **AI/ML, Cloud, DevOps, and Modern Web Development**, while expanding my skills in **Database Management** and **Software Testing**.  
 
 </div>
 
 ---
 
 ## 🌟 Focus Areas
-- 💻 **Full-Stack Web Development**  
-- ☁️ **Cloud & DevOps**  
-- 🧪 **Software Testing & Quality Assurance**  
-- 🤖 **AI/ML & Generative AI**  
-- 🗄️ **Database Management & Optimization**  
+<p align="center">
+💻 **Full-Stack Web Development** &nbsp; | &nbsp; ☁️ **Cloud & DevOps** &nbsp; | &nbsp; 🧪 **Software Testing & QA** &nbsp; | &nbsp; 🤖 **AI/ML & Generative AI** &nbsp; | &nbsp; 🗄️ **Database Management**
+</p>
 
 ---
 
 ## 🤝 Collaboration & Interests
-I’m excited to collaborate on:  
-- 🌐 Open-source contributions  
-- 🚀 Building impactful web applications  
-- 🧩 Solving algorithmic challenges & coding problems  
-- 🤖 AI/ML and Generative AI experiments  
+<p align="center">
+🌐 Open-source contributions &nbsp; | &nbsp; 🚀 Building impactful web applications &nbsp; | &nbsp; 🧩 Solving algorithmic challenges &nbsp; | &nbsp; 🤖 AI/ML experiments
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-Sometimes my code feels like it was written by a wizard ✨, and other times it has a mind of its own 🧙‍♀️. That’s the beauty of coding — the journey is just as thrilling as the destination! 😅
+<p align="center">
+Sometimes my code feels like it was written by a wizard ✨, other times it has a mind of its own 🧙‍♀️. Coding is a thrilling journey! 😅
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshnoorkaurjuj/)  
-  
 [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshnoork-101)  
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arshnoork-101/)  
 </p>
 
