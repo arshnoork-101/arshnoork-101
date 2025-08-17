@@ -1,10 +1,12 @@
-# 👋 Hi, I’m @arshnoork-101
+# 👋 Hey there, I’m Arshnoor Kaur (@arshnoork-101)
 
-### **Full-Stack Web Developer** | **AI/ML Enthusiast** | **Cloud & DevOps Explorer**
+### 🚀 Full-Stack Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud & DevOps Explorer  
 
-Passionate about crafting innovative, high-quality web applications. I'm on a continuous journey to learn and grow in the ever-evolving tech landscape.
+I’m passionate about building **scalable, user-focused applications** and exploring the intersection of **AI, cloud technologies, and modern web development**.  
+Always curious, always learning — turning ideas into impactful solutions.  
 
 ---
+
 
 ## 🚀 My Universe of Interests
 
