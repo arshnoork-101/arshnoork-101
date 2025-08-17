@@ -12,13 +12,17 @@
   <a href="https://www.linkedin.com/in/arshnoorkaurjuj/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/arshnoork-101" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://meetarsh.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-03A9F4?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
+  <a href="https://dev.to/arsh-k31" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV">
+  </a>
+    <a href="https://github.com/arshnoork-101" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
+
 
 ---
 
