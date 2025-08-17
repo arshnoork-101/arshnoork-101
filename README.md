@@ -28,7 +28,7 @@ Passionate about crafting innovative, high-quality web applications. I'm on a co
   <a href="https://github.com/arshnoork-101" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://hashnode.com/@AK401" target="_blank">
+  <a href="https://meetarsh.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-03A9F4?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
 </div>
