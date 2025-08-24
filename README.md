@@ -86,12 +86,11 @@
 
 ---
 
+
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arshnoork-101&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=arshnoork-101&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
