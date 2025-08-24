@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <h3>🌐 Let's Connect</h3>
+  <h3>🌐 Explore My Work</h3>
   <a href="https://www.linkedin.com/in/arshnoorkaurjuj/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -18,7 +18,11 @@
   <a href="https://dev.to/arsh-k31" target="_blank">
     <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV">
   </a>
+  <a href="https://meetarshnoor.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio">
+  </a>
 </div>
+
 
 
 ---
